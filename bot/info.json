@@ -1,0 +1,50 @@
+{
+  "bot": {
+    "color": "E3C6F0",
+    "avatar": "https://cdn.discordapp.com/attachments/700529805925417021/700530129318969434/90bc9d3e-18e8-48e8-8d74-6f0db142ae32-1.jpg"
+  },
+  "help": {
+    "help": {
+      "name": "*help",
+      "syntax": "*help [command]",
+      "desc": "displays help on a specific command if arguments are given, if not lists all commands",
+      "perm": "anybody"
+    },
+    "ping": {
+      "name": "*ping",
+      "syntax": "*ping",
+      "desc": "pong!!!!!:ping_pong::ping_pong::ping_pong:",
+      "perm": "anybody"
+    },
+    "hug": {
+      "name": "*hug",
+      "syntax": "*hug [mention the user you want to hug]",
+      "desc": "squeeze (someone) tightly in one's arms, typically to express affection.",
+      "perm": "anybody"
+    }
+  },
+  "hug": {
+    "gif": [
+      "https://media.discordapp.net/attachments/700529805925417021/700889096624537750/ezgif.com-gif-maker.gif",
+      "https://media.discordapp.net/attachments/700529805925417021/700889341538598952/ezgif.com-gif-maker_1.gif",
+      "https://media.discordapp.net/attachments/700529805925417021/700889536942571571/ezgif.com-gif-maker_2.gif",
+      "https://media.discordapp.net/attachments/700529805925417021/700890321034149888/ezgif.com-gif-maker_3.gif",
+      "https://media.discordapp.net/attachments/700529805925417021/700901342738251786/ezgif.com-gif-maker_4.gif",
+      "https://media.discordapp.net/attachments/700529805925417021/700901757353459713/ezgif.com-gif-maker_5.gif"
+    ],
+    "msg": [
+      "$user, you got hugged by $sender",
+      "$user was squeesed tight by $sender",
+      "$sender won't let go of $user",
+      "$user was tackled by $sender"
+    ]
+  },
+  "hit": {
+    "gif": [],
+    "msg": []
+  },
+  "kiss": {
+    "gif": [],
+    "msg": []
+  }
+}
